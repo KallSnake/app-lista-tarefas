@@ -143,7 +143,7 @@ echo "<pre>";
 		<!-- Fim Menu Lateral -->
 
 
-		<!--  <script src="../js/editar.js"> </script>   -->
+		src="../js/editar.js"> </script>
 
 
 	</body>
